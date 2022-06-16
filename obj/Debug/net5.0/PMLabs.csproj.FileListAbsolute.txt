@@ -1,0 +1,74 @@
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.exe
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.deps.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.runtimeconfig.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.runtimeconfig.dev.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.pdb
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\GLFW.NET.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\GlmSharp.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Compute.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Core.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Graphics.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Input.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Mathematics.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.OpenAL.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.AssemblyReference.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.AssemblyInfoInputs.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.AssemblyInfo.cs
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.CoreCompileInputs.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.CopyComplete
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\refint\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.pdb
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.genruntimeconfig.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\pl_sprawdzian2\obj\Debug\net5.0\ref\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.exe
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.deps.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.runtimeconfig.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.runtimeconfig.dev.json
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\PMLabs.pdb
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\GLFW.NET.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\GlmSharp.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Compute.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Core.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Graphics.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Input.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Mathematics.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.OpenAL.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.AssemblyReference.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.AssemblyInfoInputs.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.AssemblyInfo.cs
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.CoreCompileInputs.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.csproj.CopyComplete
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\refint\PMLabs.dll
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.pdb
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\PMLabs.genruntimeconfig.cache
+C:\Users\48574\Desktop\programowanie multimedialne\Zad2\do wysłania\pl_sprawdzian2\obj\Debug\net5.0\ref\PMLabs.dll

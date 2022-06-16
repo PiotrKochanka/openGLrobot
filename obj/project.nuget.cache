@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "GI6i9rBI4pRX9YJj1/BczG+UqTDwrIt3TQzrjAFms0V8oB4mIykPHi+Mzo6GbLR83n6ltjGABDJkqS+NyPGieQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48574\\Desktop\\programowanie multimedialne\\Zad2\\do wysłania\\pl_sprawdzian2\\PMLabs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48574\\.nuget\\packages\\glfw-net\\3.3.1\\glfw-net.3.3.1.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\glmsharp\\0.9.8\\glmsharp.0.9.8.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk\\4.5.0\\opentk.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.compute\\4.5.0\\opentk.compute.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.core\\4.5.0\\opentk.core.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.graphics\\4.5.0\\opentk.graphics.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.input\\4.5.0\\opentk.input.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.mathematics\\4.5.0\\opentk.mathematics.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.openal\\4.5.0\\opentk.openal.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.windowing.common\\4.5.0\\opentk.windowing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.windowing.desktop\\4.5.0\\opentk.windowing.desktop.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.5.0\\opentk.windowing.graphicslibraryframework.4.5.0.nupkg.sha512",
+    "C:\\Users\\48574\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „GlmSharp 0.9.8” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net5.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "GlmSharp",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
